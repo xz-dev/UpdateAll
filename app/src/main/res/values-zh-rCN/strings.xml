@@ -47,7 +47,7 @@
     <string name="clean_log">清空日志</string>
     <string name="background_image">背景图片</string>
     <string name="apps_logo">软件图标</string>
-    <string name="nothing_in_there">这里好像什么也没有(&gt;﹏&lt;)</string>
+    <string name="nothing_in_there"><![CDATA[Here\'s nothing. (>﹏<)]]></string>
     <string name="please_grant_storage_perm">请授予存储读写权限</string>
     <string name="add_apps">添加应用</string>
     <string name="auto_update_hub_config">自动更新软件源配置</string>
